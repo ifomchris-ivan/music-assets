@@ -1,0 +1,142 @@
+[
+  {
+    "id": "RWS_Tarot_08_Strength",
+    "name": "VIII. 力量",
+    "roman": "VIII",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg",
+    "desc": "溫柔與勇氣的完美融合。真正的強大並非壓制，而是透過耐性與內在的韌性，平和地馴服狂暴的本能。",
+    "keywords": {
+      "upright": ["勇氣", "內在力量", "同理心", "耐性"],
+      "reversed": ["自我懷疑", "恐懼", "軟弱", "缺乏自信"]
+    },
+    "advice": {
+      "love": "這人挺有耐心的，對感情很願意付出，且懂得如何以柔克剛。相處起來很有默契，即便遇到爭執，他通常也能冷靜把話說開。",
+      "work": "現在需要的是持久的韌性而非爆發力。相信你自己的洞見，只要堅持理想並圓融處理人際關係，問題都能迎刃而解。",
+      "general": "真正的強大是溫柔。對生活不需要過於執著或硬碰硬，信任內在的平衡點，宇宙自會接住你。"
+    },
+    "astrology": { "label": "獅子座", "desc": "象徵自我光輝、勇氣與持久的創造力。" },
+    "element": { "type": "Fire", "icon": "🔥", "desc": "火元素 - 溫暖且充滿生命力的意志。" },
+    "stellar_narrative": "你是星系中穩定的核融合反應。不需怒吼，那份內斂而恆久的光熱，足以平息周遭的混亂碎石。"
+  },
+  {
+    "id": "RWS_Tarot_09_Hermit",
+    "name": "IX. 隱者",
+    "roman": "IX",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_09_Hermit.jpg",
+    "desc": "獨自在雪山之巔提燈的長者。在孤獨中觀測星軌，尋求真理。他代表從外在喧囂退回內在的寂靜。",
+    "keywords": {
+      "upright": ["內省", "孤獨", "引導", "真理"],
+      "reversed": ["孤立", "偏執", "拒絕建議", "沈溺過去"]
+    },
+    "advice": {
+      "love": "這人挺理性的，需要高度的自主空間。如果處於熱戀，可能會給人一種淡薄感。其實他只是在尋求內心的平靜，別擅自期待他會時刻黏著你。",
+      "work": "現在適合暫停腳步，重新評估長期目標。別急著行動，答案往往藏在你內省後的洞見裡。",
+      "general": "孤獨不是寂寞，是為了找回真實的自己。暫時與外界斷連，聽聽靈魂在說什麼。"
+    },
+    "astrology": { "label": "處女座", "desc": "分析、細節、服務與對秩序的深層追求。" },
+    "element": { "type": "Earth", "icon": "🌱", "desc": "土元素 - 紮實且務實的內在探索。" },
+    "stellar_narrative": "你是遙遠星系邊緣的一顆孤星，安靜且獨立。你散發的微光不為爭寵，只為照亮那段通往真理的荒涼道路。"
+  },
+  {
+    "id": "RWS_Tarot_10_Wheel_of_Fortune",
+    "name": "X. 命運之輪",
+    "roman": "X",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    "desc": "星系旋臂的無窮旋轉。在變動不居的世界中，尋找那個不動的核心。它代表循環、轉機與命運的節奏。",
+    "keywords": {
+      "upright": ["改變", "循環", "契機", "演化"],
+      "reversed": ["阻礙", "抗拒改變", "壞運氣", "停滯"]
+    },
+    "advice": {
+      "love": "緣分自有定數，別對現狀太執著。如果是逆位，可能兩人的期望出現落差，落實到現實生活去看待這段起伏，會覺得問題沒那麼嚴重。",
+      "work": "計畫趕不上變化。順著這股潮流走，你的洞見會幫你看到混亂背後的真正價值。",
+      "general": "命運如星軌運轉，高低起伏皆是必然。保持圓融的態度，隨機應變即可。"
+    },
+    "astrology": { "label": "木星", "desc": "象徵擴張、機運與更高維度的智慧。" },
+    "element": { "type": "Fire", "icon": "🔥", "desc": "火元素 - 動能與不斷擴張的變遷。" },
+    "stellar_narrative": "你是宏大的星盤運轉本身。無論此刻處於哪一個刻度，中心點始終平靜。你只需觀測，不必抵抗。"
+  },
+  {
+    "id": "RWS_Tarot_11_Justice",
+    "name": "XI. 正義",
+    "roman": "XI",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg",
+    "desc": "手持天秤與利劍，冷靜地裁決因果。象徵客觀的真實、法律的公平與清澈的決斷力。",
+    "keywords": {
+      "upright": ["公平", "真相", "責任", "法律"],
+      "reversed": ["不公", "偏見", "逃避果報", "失衡"]
+    },
+    "advice": {
+      "love": "兩人的相處挺融洽的，付出與回報很理性平衡。遇到困難能互相體諒，只要能把話說開，即便言語稍嫌尖銳也不會是問題。",
+      "work": "一切講求規則。在溝通上應該是容易的，遵守契約精神並保持客觀，勝利自然會站在你這邊。",
+      "general": "誠實面對現狀，不要畫餅。因果律在星空下是透明的，你種下什麼因，就收穫什麼果。"
+    },
+    "astrology": { "label": "天秤座", "desc": "象徵平衡、和諧、審美與關係的對等。" },
+    "element": { "type": "Air", "icon": "🌬️", "desc": "風元素 - 理性判斷與清晰的思想連結。" },
+    "stellar_narrative": "你是維持星系引力平衡的法官。不偏不倚地確保每一顆天體都在預定的軌跡上運動，維繫著深空的秩序。"
+  },
+  {
+    "id": "RWS_Tarot_12_Hanged_Man",
+    "name": "XII. 倒吊人",
+    "roman": "XII",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_12_Hanged_Man.jpg",
+    "desc": "懸掛在生命之樹上的覺醒者。這是一場靜止的壯遊，透過換個視角看世界，獲得深層的靈性突破。",
+    "keywords": {
+      "upright": ["犧牲", "新視角", "暫停", "放下"],
+      "reversed": ["無謂犧牲", "抗拒", "延遲", "徒勞無功"]
+    },
+    "advice": {
+      "love": "暫時退後一步，換個姿勢看這段關係。也許你發現之前的爭執只是因為期望太高，現在學會放手或調整心態，反而能看到轉機。",
+      "work": "如果計畫卡住了，別硬衝。有時候停下來不做什麼，反而比忙得團團轉更有收穫。試著換個非主流的角度思考。",
+      "general": "放慢腳步，答案不在頻繁的行動中。相信星星的直覺，有時候「無為」才是最有力的出擊。"
+    },
+    "astrology": { "label": "海王星", "desc": "象徵夢境、直覺、犧牲與無邊際的靈性。" },
+    "element": { "type": "Water", "icon": "💧", "desc": "水元素 - 順應流動的深層智慧。" },
+    "stellar_narrative": "你是星雲中懸浮的觀測點。在無重力狀態下，你拋棄了上下之分，看見了星體背後隱藏的因果網絡。"
+  },
+  {
+    "id": "RWS_Tarot_13_Death",
+    "name": "XIII. 死神",
+    "roman": "XIII",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg",
+    "desc": "終結與重生的守護者。唯有腐朽的事物徹底崩解，新的生命能量才能重新綻放。這不是毀滅，是轉化。",
+    "keywords": {
+      "upright": ["終結", "轉化", "釋放", "重生"],
+      "reversed": ["停滯", "恐懼改變", "苟延殘喘", "衰敗"]
+    },
+    "advice": {
+      "love": "一段關係如果已經到了盡頭，放手是最好的方式。逆位時對方心思可能已經不在這，距離是有效的手段，讓時間去沖淡一切吧。",
+      "work": "舊的架構需要大刀闊斧的修剪。別害怕結束，那是為了迎接更強大的新計畫。看清真正的價值，別執著於殘骸。",
+      "general": "黎明前總是最黑暗。結束是為了讓生命再次流動，勇敢展開行動去迎接新的階段。"
+    },
+    "astrology": { "label": "天蠍座", "desc": "象徵深刻轉化、再生、性與強烈的情感。" },
+    "element": { "type": "Water", "icon": "💧", "desc": "水元素 - 情感的死灰復燃與深層洗滌。" },
+    "stellar_narrative": "你是超新星爆發的瞬間。雖然舊的恆星在此刻熄滅，但噴發出的星塵卻成為下一個星系誕生的溫床。"
+  },
+  {
+    "id": "RWS_Tarot_14_Temperance",
+    "name": "XIV. 節制",
+    "roman": "XIV",
+    "category": "major",
+    "image": "https://zh.wikipedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg",
+    "desc": "靈魂的煉金術士，調和著生命中截然不同的成分。象徵平衡、和諧、耐心與對靈魂目標的精確調試。",
+    "keywords": {
+      "upright": ["和諧", "節制", "調解", "平衡"],
+      "reversed": ["失衡", "衝突", "過度", "缺乏溝通"]
+    },
+    "advice": {
+      "love": "感情需要的是細水長流的調和。雙方若能理性平衡地付出，遇到困難互相體諒，默契會非常好。保持溝通的流暢度即可。",
+      "work": "採取中庸之道，別急著選邊站。整合不同部門或想法的衝突，你會發現這種圓融的處理方式反而更有競爭力。",
+      "general": "保持耐心，時間會調和一切矛盾。像平時一樣維持輕鬆自在的態度，星星的直覺會帶領你走到平衡點。"
+    },
+    "astrology": { "label": "射手座", "desc": "象徵追求真理、擴張視野與更高層次的智慧整合。" },
+    "element": { "type": "Fire", "icon": "🔥", "desc": "火元素 - 行動中蘊含的智慧之光。" },
+    "stellar_narrative": "你是兩條星系支流交匯處的平靜水域。你精確地調配著宇宙的元素，讓極端的力量在此轉化為和諧的星輝。"
+  }
+]
